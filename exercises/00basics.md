@@ -24,5 +24,12 @@ toLowerCase() - To convert the whole string to lowercase
 .replaceAll( 'string to replace' , 'preferred string') - Find and replace all occurence of the string to be replaced . Case sensitive !!
 
 toString() - Convert any datatype to String.
+isNotEmpty() -
 
+statements do not hold a value at runtime whereas expressions hold a value at runtime
 
+// - single line comment
+/* ......              */ -- Multiline comments
+
+#  DART TYPE SYSTEM
+the var keyword can hold any type of data but once assigned it can only hold that particular datatype and nothing else 
